@@ -1,6 +1,8 @@
 node_modules
 tests
 src
+.env
+.eslintrc.json
 .editorconfig
 .eslintignore
 .github

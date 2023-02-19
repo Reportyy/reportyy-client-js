@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/Reportyy/reportyy-client-js/compare/v1.0.3...v1.0.4) (2023-02-19)
+
+
+### Bug Fixes
+
+* remove additional files from npm package ([15bc8d3](https://github.com/Reportyy/reportyy-client-js/commit/15bc8d3158ca3d10d3d56ac136c045a4d0814aae))
+
 ## [1.0.3](https://github.com/Reportyy/reportyy-client-js/compare/v1.0.2...v1.0.3) (2023-02-19)
 
 

@@ -14,6 +14,7 @@
     "build": "rm -rf dist/* && tsc -p tsconfig.json && tsc -p tsconfig.cjs.json && ./scripts/patch-dist-package.sh",
     "lint": "eslint . --ext .ts",
     "prepare": "husky install",
+    "prepublishOnly": "npm run build",
     "test": "jest",
     "test:ci": "jest",
     "test:watch": "jest --watch"

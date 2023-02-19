@@ -30,6 +30,9 @@ jobs:
 
       - name: Test
         run: npm run test:ci
+        env:
+          REPORTYY_API_KEY: ${{ secrets.REPORTYY_API_KEY }}
+          REPORTYY_BASE_URL: ${{ secrets.REPORTYY_BASE_URL }}
 
       - name: Build
         run: npm run build

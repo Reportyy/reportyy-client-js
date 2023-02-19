@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/Reportyy/reportyy-client-js/compare/v1.0.2...v1.0.3) (2023-02-19)
+
+
+### Bug Fixes
+
+* dist files not updated ([e2978d8](https://github.com/Reportyy/reportyy-client-js/commit/e2978d8e040ffc8d694112d2d4e96055f9013221))
+
 ## [1.0.2](https://github.com/Reportyy/reportyy-client-js/compare/v1.0.1...v1.0.2) (2023-02-19)
 
 

@@ -1,6 +1,6 @@
 {
   "name": "@reportyy/client",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "TypeScript/JavaScript Node.js client for Reportyy API",
   "main": "dist/cjs/index.js",
   "module": "dist/mjs/index.js",

@@ -1,0 +1,14 @@
+node_modules
+tests
+src
+.editorconfig
+.eslintignore
+.github
+.husky
+.nvmrc
+.prettierignore
+.prettierrc.json
+.releaserc
+commitling.config.js
+json.config.js
+scripts

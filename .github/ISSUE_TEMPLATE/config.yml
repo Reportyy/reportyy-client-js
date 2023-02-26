@@ -1,0 +1,6 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Reportyy support
+    about: |
+      Please only file issues here that you believe represent actual bugs or feature requests for the Reportyy .NET library.
+      If you're having general trouble with your Reportyy integration, please reach out to support.
